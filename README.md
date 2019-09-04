@@ -89,6 +89,8 @@ Herefter kører man alt denne funktionalitet i det der svarer til en ”main” 
 # 5
 
 ![alt text](https://imgur.com/IIWCROL.png)
+
+
 If it doesn't show then:
 https://imgur.com/IIWCROL
 
