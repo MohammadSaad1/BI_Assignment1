@@ -88,6 +88,6 @@ Herefter kører man alt denne funktionalitet i det der svarer til en ”main” 
 
 # 5
 
-![alt text](imgur.com/a/aCj8Uaz)
+![alt text](https://imgur.com/IIWCROL)
 
 
